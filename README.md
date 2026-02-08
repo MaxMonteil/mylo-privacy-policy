@@ -66,8 +66,8 @@ If you email me for support or with a question, I’ll keep that correspondence 
 
 ## Third-Party Services
 Mylo uses a small number of third-party services to function:
-- **Firebase Authentication** — account login and security
-- **Netlify** — hosting and server infrastructure</p>
+- [**Firebase Authentication**](https://firebase.google.com) — account login and security
+- [**Netlify**](https://www.netlify.com) — hosting and server infrastructure</p>
 
 These services process personal data only as needed to operate Mylo and are bound by data processing agreements.
 
